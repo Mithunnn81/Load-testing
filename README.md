@@ -1,2 +1,2 @@
 # Load-testing
-Performance testing using JMeter
+Performance testing report using JMeter
